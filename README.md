@@ -1,4 +1,4 @@
-# **NLP_TextSummarization**
+# **NLP: Text Summarization**
 
 👏Here, this repository is created by Group 11（sty、smy、lsm、ywt）！
 
@@ -8,7 +8,7 @@ ___
 
 ### 方法：
 
-我们小组充分调研，结合抽取式和生成式方法的优势，设计了基于对比学习的多任务协调摘要生成模型，并选取抽取式方法MatchSum和生成式方法Bart作为Baseline，另外我们还对比了利用ChatGPT4做摘要生成任务。
+我们小组充分调研，结合抽取式和生成式方法的优势，设计了基于对比学习的多任务协调摘要生成模型，并选取抽取式方法`MatchSum`和生成式方法`Bart`作为`Baseline`，另外我们还对比了利用`ChatGPT4`做摘要生成任务。
 
 ![frame](https://cdn.jsdelivr.net/gh/W9adorer/typora@main/image/frame.png)
 
